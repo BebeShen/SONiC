@@ -368,7 +368,7 @@
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=120184&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/0c6892776d5657f485b9563594832ccf063f4cc4...9991b6ac5b4be4e09fedc60c7e077c7c11f4ce66",
   "build": "120184",
-  "date": "2022-07-09T08:00:30.8582806Z"
+  "date": ""
  }
 },
 "201911": {
@@ -524,7 +524,7 @@
 "sonic-centec-arm64.bin": {
   "url": "",
   "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
- "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
+ "diff": "https://github.com/Azure/sonic-buildimage/compare/...null",
   "build": "null",
   "date": ""
  },
